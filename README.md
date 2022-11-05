@@ -1,8 +1,8 @@
 # fluirsinparar
 
-3 Fluir Sin Parar | flow non-stop
+# Fluir Sin Parar | flow non-stop
 
-Online Exhibition
+ # Online Exhibition
 
 Concept and programing  by Marlon Barrios Solano developed during Art/Research Residency at TicTac Art Centre, Brussels
  
